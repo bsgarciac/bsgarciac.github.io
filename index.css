@@ -1,0 +1,9 @@
+.FAQ{
+    text-decoration: none;
+    color: black;
+}
+
+.FAQ:hover{
+    text-decoration: none;
+    color: gray; 
+}
